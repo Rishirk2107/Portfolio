@@ -935,3 +935,23 @@ footer span a:hover {
     line-height: 38px;
   }
 }
+
+/* unvisited link */
+.resume:link {
+  color: #333;
+}
+
+/* visited link */
+.resume:visited {
+  color: white;
+}
+
+/* mouse over link */
+.resume:hover {
+  color: blue;
+}
+
+/* selected link */
+.resume:active {
+  color: white;
+}
