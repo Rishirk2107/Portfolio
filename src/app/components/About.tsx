@@ -18,7 +18,7 @@ const About: React.FC = () => {
           </p>
           <div className="mt-6">
             <a
-              href="/projects"
+              href="#projects"
               className="bg-teal-500 text-white px-4 md:px-6 py-2 rounded-lg shadow hover:bg-teal-600 transition duration-300"
             >
               View My Projects
